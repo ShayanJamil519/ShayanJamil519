@@ -9,8 +9,8 @@
 
 - 👯 I’m looking to collaborate on **MERN projects**
 
-- 👨‍💻 All of my projects are available at [https://serene-caverns-78111.herokuapp.com/](https://serene-caverns-78111.herokuapp.com/)
-
+<!-- - 👨‍💻 All of my projects are available at [https://serene-caverns-78111.herokuapp.com/](https://serene-caverns-78111.herokuapp.com/)
+ -->
 - 💬 Ask me about **Javascript | Blockchain**
 
 - 📫 How to reach me **shayanjamil500@gmail.com**
