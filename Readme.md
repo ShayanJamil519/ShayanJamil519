@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shayan Jamil</h1>
 <h3 align="center">A passionate MERN developer from Pakistan</h3>
-//-----------------------------
+
 <img align="center"  src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" />
 
 - 🔭 I’m currently working on **MERN stack**
