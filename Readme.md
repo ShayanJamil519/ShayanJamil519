@@ -1,3 +1,7 @@
+
+![Shayan Jamil (2)](https://user-images.githubusercontent.com/76084810/194738846-5829aedb-04f2-4e04-b073-aed22f40a08f.png)
+
+<h1>======================================</h1>
 <h1 align="center">Hi 👋, I'm Shayan Jamil</h1>
 <h3 align="center">A passionate MERN developer from Pakistan</h3>
 
