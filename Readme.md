@@ -38,9 +38,10 @@
                 💠 Smart contracts execution on Ethereum & Polygon Blockchain
                 💠 Web3 Security
                 💠 NFTs
-                💠 ERC20 & ERC721 Tokens
+                💠 ERC20, ERC721 & ERC1155 Tokens
                 💠 DAOs
                 💠 Chainlink Oracles
+		💠 Thirdweb
                 💠 Alchemy & Infura Node Providers
                 💠 IPFS, Pinata, NFT.Storage
                 💠 Subgraph & Moralis
@@ -49,10 +50,9 @@
 
 ### As a Developer - My Builds ?
         
-        ✅ Ethereum Name Service Retrieval
+       
         ✅ Decentralized Exchange
         ✅ NFT Whiteisting
-        ✅ NFT Initial Coin Offering
         ✅ NFT Minting Website
         ✅ NFT Minting DAO
         ✅ Minimal Uniswap clone 
