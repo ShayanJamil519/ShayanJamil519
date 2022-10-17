@@ -1,6 +1,10 @@
 ![Shayan Jamil (3)](https://user-images.githubusercontent.com/76084810/194741601-ff9d83c4-d981-4f78-80a3-140d9a31f264.png)
 
-<h3> Profile Views: <p align="left"> <img src="https://komarev.com/ghpvc/?username=shayanjamil519&label=Profile%20views&color=0e75b6&style=flat" alt="shayanjamil519" />  </h3>
+<div display="flex">
+<div>
+<h3> Profile Views: <p align="left"> <img src="https://komarev.com/ghpvc/?username=shayanjamil519&label=Profile%20views&color=0e75b6&style=flat" alt="shayanjamil519" /> </h3>
+</div>
+<div>
 <h3>Socials : </h3>
 <p align="left">
 	<a href="mailto:shayanjamil500@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
@@ -8,6 +12,8 @@
 	<a href="https://www.linkedin.com/in/shayan-jamil-4b99051ba//"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 <!-- 	<a href="https://twitter.com/ShayanJ81846859"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a> -->
 </p>
+</div>
+</div>
 
 
 
@@ -18,8 +24,6 @@
                 💠 HTML, CSS & Tailwind CSS
                 💠 Bootstrap & Ant Design
                 💠 Material UI & Chakra UI 
-                💠 Chakra UI
-                💠 Tailwind CSS
                 💠 Redux / Redux toolkit / Context Api
                 💠 Reactjs, Nextjs
                 
