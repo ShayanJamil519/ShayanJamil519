@@ -1,9 +1,5 @@
-# 💫 About Me:
-Hey there, I'm Shayan Jamil - a MERN stack and Blockchain developer with a passion for diving deep into the technical aspects of Blockchain. When I'm not exploring the intricacies of Blockchain technology, I love creating MERN stack-based web applications.<br><br>I'm also a freelancer, offering MERN and Blockchain services to clients. I enjoy collaborating with others to bring their ideas to life and am always up for a new challenge.<br><br>In my free time, I love exploring blockchain use cases for real-life events. Whether it's exploring the potential of decentralized finance or the impact of Blockchain on supply chain management, I'm always on the lookout for innovative applications of this exciting technology
-![Untitled design (4)](https://user-images.githubusercontent.com/76084810/232546378-860beb55-9fb0-45b7-b2fd-6710d12fe8cf.png)
+![Hey there, I'm Shayan Jamil - a MERN stack and Blockchain developer with a passion for diving deep into the technical aspects of Blockchain  When I'm not exploring the intricacies of Blockchain technology, I love cre](https://user-images.githubusercontent.com/76084810/232553260-17cbb96c-a337-46ed-9a7f-59294adabdb4.png)
 
-
-.<br><br>Feel free to check out my Github profile to see some of my recent projects and get in touch if you'd like to collaborate or learn more about my work.
 
  ## 🚀 Profile Views: 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shayanjamil519&label=Profile%20views&color=0e75b6&style=flat" alt="shayanjamil519" /> </p>
