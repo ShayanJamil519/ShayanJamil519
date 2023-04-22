@@ -37,8 +37,8 @@
  </div>
 
  # 📊 GitHub Stats:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShayanJamil519&theme=blueberry&hide_border=false" alt="GitHub Streak" width="100%">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShayanJamil519&theme=blueberry&hide_border=false)<br/>
 
 
 
