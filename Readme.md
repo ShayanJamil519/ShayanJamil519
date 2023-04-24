@@ -3,9 +3,9 @@
 
  ## 🚀 Profile Views: 
 <!--  <p align="center"> <img src="https://komarev.com/ghpvc/?username=shayanjamil519&label=Profile%20views&color=0e75b6&style=flat" alt="shayanjamil519" /> </p> -->
-
-<img src="https://komarev.com/ghpvc/?username=shayanjamil519&label=Profile%20views&color=0e75b6&style=flat" alt="shayanjamil519" width="50%" height="50px" object-fit="contain" /> 
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shayanjamil519&label=Profile%20views&color=0e75b6&style=flat" alt="shayanjamil519" width="40%" height="40px" object-fit="contain" /> 
+</p>
 
 ## 🌐 Connect with me :  
 <div align="center">
