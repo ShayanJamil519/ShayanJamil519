@@ -1,13 +1,13 @@
 ![Hey there, I'm Shayan Jamil - a MERN stack and Blockchain developer with a passion for diving deep into the technical aspects of Blockchain  When I'm not exploring the intricacies of Blockchain technology, I love (2)](https://user-images.githubusercontent.com/76084810/232726726-73f5fee5-c0d6-4aef-b8b9-d01ae4a4d86a.png)
 
 
- ## 🚀 Profile Views: 
+ # 🚀 Profile Views: 
 <!--  <p align="center"> <img src="https://komarev.com/ghpvc/?username=shayanjamil519&label=Profile%20views&color=0e75b6&style=flat" alt="shayanjamil519" /> </p> -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=shayanjamil519&label=Profile%20views&color=0e75b6&style=flat" alt="shayanjamil519" width="40%" height="40px" object-fit="contain" /> 
 </p>
 
-## 🌐 Connect with me :  
+# 🌐 Connect with me :  
 <div align="center">
 <a href="https://github.com/ShayanJamil519" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
