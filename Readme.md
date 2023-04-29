@@ -1,4 +1,5 @@
-![Hey there, I'm Shayan Jamil - a MERN stack and Blockchain developer with a passion for diving deep into the technical aspects of Blockchain  When I'm not exploring the intricacies of Blockchain technology, I love (2)](https://user-images.githubusercontent.com/76084810/232726726-73f5fee5-c0d6-4aef-b8b9-d01ae4a4d86a.png)
+![tachyon-2-dr](https://user-images.githubusercontent.com/76084810/235285458-12d17c2a-a5ce-4821-9c51-175ffdf7d707.gif)
+
 
 
  # 🚀 Profile Views: 
