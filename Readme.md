@@ -1,11 +1,6 @@
 
-![ezgif com-resize (2)](https://user-images.githubusercontent.com/76084810/235288683-3591e639-76ea-40ec-b579-78384b08875e.gif)
+<img src="https://user-images.githubusercontent.com/76084810/235285458-12d17c2a-a5ce-4821-9c51-175ffdf7d707.gif" width="100%" height="600px" />
 
-
-<!-- ![ezgif com-resize (1)](https://user-images.githubusercontent.com/76084810/235286127-400cb882-bf8d-464a-ab42-b26cf425a1c0.gif) -->
-
-
-<!-- ![tachyon-2-dr](https://user-images.githubusercontent.com/76084810/235285458-12d17c2a-a5ce-4821-9c51-175ffdf7d707.gif) -->
 
 
 
