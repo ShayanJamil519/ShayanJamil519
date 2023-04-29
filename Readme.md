@@ -1,7 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/76084810/235285458-12d17c2a-a5ce-4821-9c51-175ffdf7d707.gif" width="100%" height="450px" />
 
-<h1 align="center">Hi 👋, I'm Shayan Jamil</h1>
+<h1>Hi 👋, I'm Shayan Jamil ⛓👩‍💻</h1>
 <p> I'm a MERN stack and Blockchain developer with a passion for diving deep into the technical aspects of Blockchain. When I'm not exploring the intricacies of Blockchain technology, I love creating MERN stack-based web applications. I'm also a freelancer, offering MERN and Blockchain services to clients. I enjoy collaborating with others to bring their ideas to life and am always up for a new challenge. In my free time, I love exploring blockchain use cases for real-life events. Whether it's exploring the potential of decentralized finance or the impact of Blockchain on supply chain management, I'm always on the lookout for innovative applications of this exciting technology. Feel free to check out my Github profile to see some of my recent projects and get in touch if you'd like to collaborate or learn more about my work. </p>
 
  # 🚀 Profile Views: 
