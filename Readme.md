@@ -1,5 +1,6 @@
 
-![68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966](https://github.com/user-attachments/assets/31a632d7-3720-43c7-aaf8-cca32035acdf)
+
+<img src="https://github.com/user-attachments/assets/31a632d7-3720-43c7-aaf8-cca32035acdf" width="100%" />
 
 
 <h1>Hi 👋</h1>
