@@ -1,8 +1,9 @@
 
-<img src="https://user-images.githubusercontent.com/76084810/235285458-12d17c2a-a5ce-4821-9c51-175ffdf7d707.gif" width="100%" height="450px" />
+![68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966](https://github.com/user-attachments/assets/31a632d7-3720-43c7-aaf8-cca32035acdf)
+
 
 <h1>Hi 👋</h1>
-<p> I'm a MERN stack and Blockchain developer with a passion for diving deep into the technical aspects of Blockchain. When I'm not exploring the intricacies of Blockchain technology, I love creating MERN stack-based web applications. I enjoy collaborating with others to bring their ideas to life and am always up for a new challenge. In my free time, I love exploring blockchain use cases for real-life events. Whether it's exploring the potential of decentralized finance or the impact of Blockchain on supply chain management, I'm always on the lookout for innovative applications of this exciting technology. Feel free to check out my Github profile to see some of my recent projects and get in touch if you'd like to collaborate or learn more about my work. </p>
+<p> I'm a skilled software engineer with experience in TypeScript, JavaScript, Solidity, React, React Native, Redux, Next.js, Node.js etc. I love learning new things, especially when it comes to exploring different frameworks and technologies. All I need is the official documentation and some time to understand them better. I've worked on building modern and scalable web and mobile apps, adding various features to the apps, and making improvements based on what clients want. Right now, I'm studying design patterns, and I'm also interested in blockchain. </p>
 
  # 🚀 Profile Views: 
 <!--  <p align="center"> <img src="https://komarev.com/ghpvc/?username=shayanjamil519&label=Profile%20views&color=0e75b6&style=flat" alt="shayanjamil519" /> </p> -->
