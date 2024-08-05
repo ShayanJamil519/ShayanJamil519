@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/31a632d7-3720-43c7-aaf8-cca32035acdf" width="100%" height="350px" />
 
 
-<h1>Hi 👋</h1>
+<h1>Hi, it's me Shayan Jamil 👋</h1>
 <p> I'm a skilled software engineer with experience in TypeScript, JavaScript, Solidity, React, React Native, Redux, Next.js, Node.js etc. I love learning new things, especially when it comes to exploring different frameworks and technologies. All I need is the official documentation and some time to understand them better. I've worked on building modern and scalable web and mobile apps, adding various features to the apps, and making improvements based on what clients want. Right now, I'm studying design patterns, and I'm also interested in blockchain. </p>
 
  # 🚀 Profile Views: 
