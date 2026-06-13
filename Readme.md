@@ -17,12 +17,6 @@ I’m now focused on remote opportunities with startups and product teams where 
 
 If you’re building a SaaS product, mobile app, marketplace, admin system, AI-powered product, or a full-stack platform, I can help take it from requirements to a clean, deployable, and maintainable product. </p>
 
- # 🚀 Profile Views: 
-<!--  <p align="center"> <img src="https://komarev.com/ghpvc/?username=shayanjamil519&label=Profile%20views&color=0e75b6&style=flat" alt="shayanjamil519" /> </p> -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=shayanjamil519&label=Profile%20views&color=0e75b6&style=flat" alt="shayanjamil519" width="25%" height="30px" object-fit="contain" /> 
-</p>
-
 # 🌐 Connect with me :  
 <div align="center">
 <a href="https://github.com/ShayanJamil519" target="_blank">
@@ -60,6 +54,11 @@ If you’re building a SaaS product, mobile app, marketplace, admin system, AI-p
 
 </div>
 
+ # 🚀 Profile Views: 
+<!--  <p align="center"> <img src="https://komarev.com/ghpvc/?username=shayanjamil519&label=Profile%20views&color=0e75b6&style=flat" alt="shayanjamil519" /> </p> -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shayanjamil519&label=Profile%20views&color=0e75b6&style=flat" alt="shayanjamil519" width="25%" height="30px" object-fit="contain" /> 
+</p>
 
  # 📊 GitHub Stats:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShayanJamil519&theme=blueberry&hide_border=false" alt="GitHub Streak" width="100%">
