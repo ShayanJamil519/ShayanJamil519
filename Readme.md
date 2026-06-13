@@ -5,7 +5,17 @@
 
 
 <h1>Hi, it's me, Shayan Jamil. 👋</h1>
-<p> I'm a skilled software engineer with experience in TypeScript, JavaScript, Solidity, React, React Native, Redux, Next.js, Node.js etc. I love learning new things, especially when it comes to exploring different frameworks and technologies. All I need is the official documentation and some time to understand them better. I've worked on building modern and scalable web and mobile apps, adding various features to the apps, and making improvements based on what clients want. Right now, I'm studying design patterns, and I'm also interested in blockchain. </p>
+<p> I’m a Software Engineer based in Karachi, Pakistan with 5+ years of experience building production-ready web, mobile, and backend systems for real businesses.
+
+I work across the full stack with TypeScript, React, Next.js, React Native, Node.js, NestJS, PostgreSQL, MongoDB, Redis, Socket.io, cloud services, payments, notifications, and CI/CD. I’ve built and contributed to multi-tenant SaaS platforms, admin portals, ticketing systems, real-time chat, booking flows, mobile apps, and client-facing products used by thousands of users.
+
+What makes me different is that I don’t treat development as just “completing tickets.” I try to understand the product, the users, the business goal, and the problems that can appear later if the architecture is not planned properly. I care about clean implementation, clear communication, scalable structure, maintainability, edge cases, error states, and the small details that make a product feel solid.
+
+I also use AI-assisted development tools like Cursor, Claude Code, and modern AI workflows to speed up delivery without compromising code quality. For me, AI is not a shortcut for careless work. I use it to move faster, review better, explore solutions, and keep development efficient while still owning the final output.
+
+I’m now focused on remote opportunities with startups and product teams where I can help build reliable web and mobile products from idea to production. I enjoy working with teams and clients who value ownership, honest progress updates, practical technical decisions, and long-term product thinking.
+
+If you’re building a SaaS product, mobile app, marketplace, admin system, AI-powered product, or a full-stack platform, I can help take it from requirements to a clean, deployable, and maintainable product. </p>
 
  # 🚀 Profile Views: 
 <!--  <p align="center"> <img src="https://komarev.com/ghpvc/?username=shayanjamil519&label=Profile%20views&color=0e75b6&style=flat" alt="shayanjamil519" /> </p> -->
