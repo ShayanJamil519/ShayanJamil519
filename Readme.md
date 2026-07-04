@@ -31,9 +31,9 @@ If you’re building a SaaS product, mobile app, marketplace, admin system, AI-p
 <a href="https://www.upwork.com/freelancers/~016fbd36eeaae48746" target="_blank">
 <img src=https://img.shields.io/badge/upwork-%236FDA44.svg?&style=for-the-badge&logo=upwork&logoColor=white alt=upwork style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.fiverr.com/s/8zZWBWq" target="_blank">
+<!-- <a href="https://www.fiverr.com/s/8zZWBWq" target="_blank">
 <img src=https://img.shields.io/badge/fiverr-%231DBF73.svg?&style=for-the-badge&logo=fiverr&logoColor=white alt=fiverr style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://www.shayanjamil.com" target="_blank">
 <img src=https://img.shields.io/badge/portfolio-%23050816.svg?&style=for-the-badge&logo=vercel&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 </a>
