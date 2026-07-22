@@ -2,18 +2,42 @@
 
 
 
-<h1>Hi, it's me, Shayan Jamil. 👋</h1>
-<p> I’m a Software Engineer based in Karachi, Pakistan with 5+ years of experience building production-ready web, mobile, and backend systems for real businesses.
+# Hi, I'm Shayan Jamil 👋
+### Full Stack Developer · 5+ years · Karachi 🇵🇰 · Remote
 
-I work across the full stack with TypeScript, React, Next.js, React Native, Node.js, NestJS, PostgreSQL, MongoDB, Redis, Socket.io, cloud services, payments, notifications, and CI/CD. I’ve built and contributed to multi-tenant SaaS platforms, admin portals, ticketing systems, real-time chat, booking flows, mobile apps, and client-facing products used by thousands of users.
+I help founders and product teams take software from **idea → production** without the usual chaos.
 
-What makes me different is that I don’t treat development as just “completing tickets.” I try to understand the product, the users, the business goal, and the problems that can appear later if the architecture is not planned properly. I care about clean implementation, clear communication, scalable structure, maintainability, edge cases, error states, and the small details that make a product feel solid.
+### Why clients come back
 
-I also use AI-assisted development tools like Cursor, Claude Code, and modern AI workflows to speed up delivery without compromising code quality. For me, AI is not a shortcut for careless work. I use it to move faster, review better, explore solutions, and keep development efficient while still owning the final output.
+- **Business goal first** — I understand the *why* before writing a line of code
+- **Honest updates** — you always know exactly where the project stands
+- **Risks flagged early** — not after the deadline slips
+- **Handover-ready code** — your next developer won't curse at it
+- **Outcome ownership** — I own the result, not just my commits
 
-I’m now focused on remote opportunities with startups and product teams where I can help build reliable web and mobile products from idea to production. I enjoy working with teams and clients who value ownership, honest progress updates, practical technical decisions, and long-term product thinking.
 
-If you’re building a SaaS product, mobile app, marketplace, admin system, AI-powered product, or a full-stack platform, I can help take it from requirements to a clean, deployable, and maintainable product. </p>
+### 🚀 What I've shipped
+
+- 🎟️ **Event ticketing platforms** — production setup, checkout, QR gate scanning, payouts & sales analytics
+- 🏢 **Multi-tenant SaaS** — organizations, chapters, roles, events and member communications at scale
+- 💳 **Fintech & payments** — KYC verification, installments, Stripe/PayPal checkout, wallets & refunds
+- 🚚 **Fleet & rider operations** — live duty status, document onboarding, real-time job updates *(live on Google Play)*
+- 🍽️ **Booking & marketplace flows** — reservations, pre-ordering, loyalty tiers, operator dashboards
+- 🛡️ **Public-safety apps** — SOS alerts, incident reporting, live crime maps
+- 🛒 **E-commerce** — storefront, multi-step checkout and full admin portal *(5★ client review)*
+
+### 🤖 AI, done properly
+
+Most "AI features" break the moment a real user hits them. I build the boring parts that make them hold up — retries, fallbacks, streaming, cost ceilings, and sane behavior when the model returns nonsense.
+
+- **Shipped:** GPT-4 powered personalized content generation with audio narration · automated environmental-claim analysis with generated PDF audit reports
+- **LLM APIs:** OpenAI (GPT-4, function calling, structured outputs) · Anthropic Claude
+- **Speech:** Whisper transcription · text-to-speech narration
+- **RAG & search:** embeddings, vector databases (Pinecone, pgvector), semantic and document search
+- **Orchestration:** LangChain, prompt engineering, streaming responses, token & cost management
+- **AI-assisted delivery:** Cursor + Claude Code in my daily workflow — faster shipping, same review standard
+
+
 
 # 🌐 Connect with me :  
 <div align="center">
