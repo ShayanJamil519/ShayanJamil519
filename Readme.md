@@ -21,13 +21,13 @@
 
 - 🎟️ **Event ticketing platforms** — production setup, checkout, QR gate scanning, payouts & sales analytics
 - 🏢 **Multi-tenant SaaS** — organizations, chapters, roles, events and member communications at scale
-- 💬 **Real-time chat & notifications** — WebSocket messaging, push delivery, background job queues and reporting/moderation tools
+- 💬 **Real-time chat & notifications** — WebSocket messaging, push delivery, background job queues and reporting tools
 - 💳 **Fintech & payments** — KYC verification, installments, Stripe/PayPal checkout, wallets & refunds
 - 🚚 **Fleet & rider operations** — live duty status, document onboarding, real-time job updates
 - 🍽️ **Booking & marketplace flows** — reservations, pre-ordering, loyalty tiers, operator dashboards
 - 🛡️ **Public-safety apps** — SOS alerts, incident reporting, live crime maps
 - 🛒 **E-commerce** — storefront, multi-step checkout and full admin portal
-- 📊 **Admin portals & dashboards** — role-based access, user and content management, analytics & charts, multi-language support
+- 📊 **Admin portals & dashboards** — role-based access, user and content management, analytics & charts, multi-lang support
 - 🎓 **EdTech & enrollment platforms** — course registration, class enrollment and payment flows
 - ☁️ **Cloud deployment & CI/CD** — separate dev/prod environments, automated pipelines, database migrations & media storage
 
