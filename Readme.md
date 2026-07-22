@@ -2,12 +2,13 @@
 
 
 
-# Hi, I'm Shayan Jamil 👋
-### Full Stack Developer · 5+ years · Karachi 🇵🇰 · Remote
+# 👋 Hi, I'm Shayan Jamil
 
-I help founders and product teams take software from **idea → production** without the usual chaos.
+### 💻 Full Stack Developer · ⏳ 5+ years · 📍 Karachi 🇵🇰 · 🌍 Remote
 
-### Why clients come back
+🚀 I help founders and product teams take software from **idea → production** without the usual chaos.
+
+### 🤝 Why clients come back
 
 - **Business goal first** — I understand the *why* before writing a line of code
 - **Honest updates** — you always know exactly where the project stands
