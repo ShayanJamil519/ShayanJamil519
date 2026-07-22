@@ -1,7 +1,6 @@
 
+<img width="4000" height="1000" alt="linkedin-banner-c" src="https://github.com/user-attachments/assets/ec1604f9-6d26-475f-80fa-1ccecd9a7256" />
 
-<!-- <img src="https://github.com/user-attachments/assets/31a632d7-3720-43c7-aaf8-cca32035acdf" width="100%" height="350px" /> -->
-<img width="2400" height="1260" alt="portfolio-preview-3" src="https://github.com/user-attachments/assets/291ff0f5-7f55-49e1-bc2f-a078ee8c0db7" />
 
 
 <h1>Hi, it's me, Shayan Jamil. 👋</h1>
